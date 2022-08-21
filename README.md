@@ -46,7 +46,9 @@
 
 ## :dart: About ##
 
-Describe your project
+This web application has two buttons. with the first you can add pacmans randomly on the screen. the second button starts movement to pacmen and they move with random velocity and direction for each one.
+
+This projects was made to test DOM manipulation using Javascript, using the document.getElementById method. An empty array of Pacmen is defined in the begining and there is a function to create a pacman that stablish the image from the folder, initial position and initial velocity, then this object is pushed as a div in the empty array. For the movement a function use setTimeOut to update position based in the position and veolocity established when the pacman was created. 
 
 ## :sparkles: Features ##
 
