@@ -71,6 +71,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: How to run ##
 
+for running this project you can click the button code and then open with Github Desktop. Then you can open the index.html inside pacmen folder in your github folder in your local disk.
+
+if you don't have github desktop you can clone and run this project following the next steps.
+
 ```bash
 # Clone this project
 $ git clone https://github.com/Alvgonz/pacmenfactory
