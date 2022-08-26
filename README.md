@@ -85,6 +85,12 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
+## :sparkles: Roadmap of future improvements ##
+
+:heavy_check_mark: I plan to include inclination of pacman image changing with the relations between the valocity in y and x;\
+:heavy_check_mark: I plan to change pacman image to animate it to change between open mouth and close mouth en each position change;\
+:heavy_check_mark: I plan to put a label that you can use to change the image for a different character. I tcan be ghosts of different colors;
+
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
